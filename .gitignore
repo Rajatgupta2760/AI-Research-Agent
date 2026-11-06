@@ -1,0 +1,26 @@
+<CodeBlock language="gitignore" editable>
+# Virtual environment
+venv/
+env/
+.venv/
+
+Python cache
+pycache/
+*.py[cod]
+*.pyo
+
+Environment variables and secrets
+.env
+.env.*
+
+IDE files
+.vscode/
+.idea/
+
+Operating system
+.DS_Store
+Thumbs.db
+
+Logs
+*.log
+</CodeBlock>
